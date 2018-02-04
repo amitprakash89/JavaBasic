@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>My comment</comment>
+<entry key="displayName">Jim Wilson</entry>
+<entry key="accountNumber">123-45-6789</entry>
+</properties>
